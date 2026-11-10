@@ -1,0 +1,2 @@
+[functions.create-accounts]
+verify_jwt = true
